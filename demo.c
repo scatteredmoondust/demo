@@ -10,6 +10,7 @@ Sample output:
 int main() 
 {
     printf("Hello World\n");
+    printf("Added new content\n");
 
     return 0;
 }
