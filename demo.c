@@ -10,8 +10,9 @@ Sample output:
 int main() 
 {
     printf("Hello World\n");
-    printf("Added new content\n");
 
+
+    int var = 0;
     return 0;
 }
 
