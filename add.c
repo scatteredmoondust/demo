@@ -1,8 +1,8 @@
 #include<stdio.h>
 /*
-Name:
-Date:
-Description:
+Name: Lasya
+Date: 17/09/2024
+Description: 
 Sample input:
 Sample output:
  */
@@ -10,7 +10,7 @@ Sample output:
 int main() 
 {
     printf("Added New File\n");
-
+    printf("Added another File\n");
     return 0;
 }
 
